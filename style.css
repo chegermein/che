@@ -1,0 +1,14 @@
+/*Selector universal*/
+/** {
+	color:red;
+}*/
+
+h1{
+	font-family: Arial, Helvetica, sans-serif;
+	color: maroon;
+}
+
+.article-header{
+		font-family: Arial, Helvetica, sans-serif;
+	color: maroon;
+}
